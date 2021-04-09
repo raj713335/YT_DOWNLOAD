@@ -42,4 +42,4 @@ You can pass any valid `pyinstaller` flag in the following command to further cu
 ```sh
 $ python -m eel YT.py web --noconsole --onefile --icon=barcode.icns
 ```
-Vvv
+
