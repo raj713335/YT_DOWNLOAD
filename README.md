@@ -2,7 +2,7 @@
 A CROSS PLATFORM DESKTOP APPLICATION TO DOWNLOAD YOUTUBE VIDEOS AND PLAYLIST .
 
 
-# YT_DOWNLOADER
+# YT_DOWNLOADER.
 
 The simplest and fastest way to create applications with a Web UI and a Python backend.
 ![](YT_DOWNLOADER.png)
